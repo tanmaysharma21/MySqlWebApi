@@ -1,0 +1,13 @@
+C:\Users\tsharma\source\repos\Database\Database\bin\Debug\netcoreapp2.2\Database.deps.json
+C:\Users\tsharma\source\repos\Database\Database\bin\Debug\netcoreapp2.2\Database.runtimeconfig.json
+C:\Users\tsharma\source\repos\Database\Database\bin\Debug\netcoreapp2.2\Database.runtimeconfig.dev.json
+C:\Users\tsharma\source\repos\Database\Database\bin\Debug\netcoreapp2.2\Database.dll
+C:\Users\tsharma\source\repos\Database\Database\obj\Debug\netcoreapp2.2\Database.csproj.CoreCompileInputs.cache
+C:\Users\tsharma\source\repos\Database\Database\obj\Debug\netcoreapp2.2\Database.RazorAssemblyInfo.cache
+C:\Users\tsharma\source\repos\Database\Database\obj\Debug\netcoreapp2.2\Database.RazorAssemblyInfo.cs
+C:\Users\tsharma\source\repos\Database\Database\obj\Debug\netcoreapp2.2\Database.AssemblyInfoInputs.cache
+C:\Users\tsharma\source\repos\Database\Database\obj\Debug\netcoreapp2.2\Database.AssemblyInfo.cs
+C:\Users\tsharma\source\repos\Database\Database\obj\Debug\netcoreapp2.2\Database.RazorTargetAssemblyInfo.cache
+C:\Users\tsharma\source\repos\Database\Database\bin\Debug\netcoreapp2.2\Database.pdb
+C:\Users\tsharma\source\repos\Database\Database\obj\Debug\netcoreapp2.2\Database.dll
+C:\Users\tsharma\source\repos\Database\Database\obj\Debug\netcoreapp2.2\Database.pdb
